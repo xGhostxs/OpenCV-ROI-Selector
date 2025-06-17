@@ -1,1 +1,20 @@
-# OpenCV-ROI-Selector
+# OpenCV ROI Selector
+
+Bu proje, OpenCV kullanarak canlı kamera görüntüsünden fare ile dikdörtgen ROI (Region of Interest) seçilmesini sağlar.
+
+## Özellikler
+
+- Canlı kamera görüntüsü
+- Fare ile ROI seçimi
+- Seçilen bölgenin ayrı pencerede gösterilmesi
+
+## Gereksinimler
+
+- Python 3.x
+- opencv-python
+- numpy
+
+## Kurulum
+
+```bash
+pip install opencv-python numpy
