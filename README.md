@@ -18,3 +18,12 @@ Bu proje, OpenCV kullanarak canlı kamera görüntüsünden fare ile dikdörtgen
 
 ```bash
 pip install opencv-python numpy
+python roi_selector.py
+Kamera açılır.
+
+Fare ile dikdörtgen çizerek bölge seçebilirsiniz.
+
+Seçilen bölge ayrı pencerede gösterilir.
+
+'q' tuşuna basarak çıkabilirsiniz.
+
