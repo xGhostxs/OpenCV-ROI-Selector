@@ -15,11 +15,8 @@ Bu proje, OpenCV kullanarak canlı kamera görüntüsünden fare ile dikdörtgen
 - numpy
 
 ## Kurulum
-
-``'bash
 pip install opencv-python numpy
-
-##Kullanım
+## Kurulum
 
 Kamera açılır.
 
